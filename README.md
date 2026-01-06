@@ -1,16 +1,11 @@
-# portfólio-tecnico-2A
-## Fundamentos de ti
-- [Scripts](Fundamentos de ti/Scripts)
-- [Usuarios](Fundamentos de ti/Usuarios)
-- [Vetores](Fundamentos de ti/Vetores)
-## Logica computacional
+# Portfólio Curso Técnico
 
-- [Conceitos vistos if e Scanner](Logica Computacional/Conceitos vistos if e Scanner)
-- [Estruturas de repetiçao](Logica Computacional/Estruturas de repetiçao)
-- [Loop](Logica Computacional/Loop)
-## Autoria pessoal
-Meu nome é Mateus Rachadel Lohn, tenho 16 anos, estudo no senai e faço curso tecnico, eu decidi fazer esse curso pois decidi que isso seria muito importante para o meu futuro,tambem gostaria de trabalhar com algo relativo no futuro
+Sou desenvolvedor Fullstack e Backend com experiência em Java, Spring Boot, RESTful APIs, JPA, SQL (PostgreSQL/Oracle) e práticas modernas de desenvolvimento como microservices, BDD, Git e AWS. Também atuo com Python e estou me especializando em Engenharia de IA e Machine Learning, buscando aplicar modelos inteligentes em soluções reais. Tenho perfil analítico, aprendizado rápido e foco em entregar código limpo, escalável e alinhado às necessidades do negócio. Estou em busca de oportunidades para contribuir com equipes inovadoras e crescer profissionalmente em ambientes que valorizam tecnologia e evolução contínua.
 
-### Lógica de programação 
+### Trabalho de conclusão de curso
+
+No projeto de Cadastro de Aluno, foi desenvolvido um aplicativo completo para gerenciamento de alunos, contemplando funcionalidades como inserção, consulta, atualização e exclusão de registros. A aplicação conta com integração a banco de dados SQL, garantindo persistência dos dados, organização das informações e maior confiabilidade no armazenamento.
 - [Cadastro de aluno](logicaprogramaçao/CadastroAluno)
+
+Já no projeto PetShop, foi implementada uma aplicação com interface gráfica intuitiva voltada ao gerenciamento de um pet shop. O sistema realiza a integração com banco de dados SQL para armazenar e gerenciar os dados de todos os animais cadastrados, incluindo informações essenciais como identificação, características e histórico, proporcionando um controle eficiente e centralizado dos registros.
 - [PetShop](logicaprogramaçao/PetShop)
